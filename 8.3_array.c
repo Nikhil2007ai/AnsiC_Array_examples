@@ -1,3 +1,11 @@
+/* 
+          Name: Nikhil Shee
+          Batch: F2
+          Roll Number: 101
+          Branch: IT
+          Example: 8.3(complement of binary numbers)
+          chapter: Array
+*/
 #include<stdlib.h>
 #include<stdio.h>
 #include<string.h>
